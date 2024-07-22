@@ -1,6 +1,6 @@
 site_name: Robert Desrosiers Portfolio
 theme:
-  name: 
+  name: material
   features:
     - navigation.tabs
     - navigation.sections
