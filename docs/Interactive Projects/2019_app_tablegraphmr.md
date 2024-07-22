@@ -1,4 +1,4 @@
-# Mixed Reality Table Graph App (2019)
+# 3D Tabletop Graph App (2019)
 **Objective**: Create a HoloLens app where the user can import .xls data and interact with the 3D data visualization. (Client: Northrop-Grumman)
 
 ## Contribution
