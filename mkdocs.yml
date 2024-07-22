@@ -1,0 +1,49 @@
+site_name: Robert Desrosiers Portfolio
+site_url: https://robertdrsj.github.io
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+      primary: indigo
+      accent: deep orange
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/robertdrsj
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/robertdrsj/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.snippets:
+      check_paths: true
+      url_download: false
+      url_max_size: 33554432
+      url_timeout: 10
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright:
+  © 2024 <a href="https://www.linkedin.com/in/robertdrsj/" target="_blank" rel="noopener">Robert Desrosiers</a>
