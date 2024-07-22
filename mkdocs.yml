@@ -1,5 +1,4 @@
 site_name: Robert Desrosiers Portfolio
-site_url: https://robertdrsj.github.io
 theme:
   name: material
   features:
