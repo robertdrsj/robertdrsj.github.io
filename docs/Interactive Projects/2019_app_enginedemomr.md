@@ -1,4 +1,4 @@
-# CoalescerXR (2019)
+# HoloLens Engine Demo (2019)
 **Objective**: Port an existing iOS tablet application to MSFT HoloLens. (Client: Internal, Tietronix Software)
 
 ## Contribution
