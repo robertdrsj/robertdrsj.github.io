@@ -1,12 +1,8 @@
 title: Robert Desrosiers
 logo: /assets/img/2025_profilepic.png
+show_downloads: false
 theme: jekyll-theme-minimal
-
-defaults:
-    # _docs
-    - scope:
-        path: ""
-        type: main
-      values:
-        sidebar:
-            nav: "main"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
