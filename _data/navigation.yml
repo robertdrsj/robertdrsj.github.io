@@ -1,12 +1,12 @@
 #main links
 main:
-	- title: "Home"
-      url: /index.html
-    - title: "XR Apps & Simulation"
-      url: /xrdev/
-    - title: "Mobile & Desktop Apps"
-      url: /appdev/
-	- title: "Game Development"
-      url: /gamedev/
-    - title: "Tool Development"
-      url: /tools/
+- title: "Home"
+  url: /index.html
+- - title: "XR Apps and Simulations"
+    url: /xrdev/
+- - title: "Mobile and Desktop Apps"
+    url: /appdev/
+- - title: "Game Development"
+    url: /gamedev/
+- - title: "Tool Development"
+    url: /tools/
