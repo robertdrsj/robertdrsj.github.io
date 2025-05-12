@@ -1,7 +1,7 @@
 # XR Software Engineer
 
-#### Programming Languages: Unity C#/.NET, C, Python, SQL, HTML/CSS
-#### Technical Software: Unity, Unreal, AWS, Google Firebase, Atlassian Suite (Sourcetree, Jira, Confluence), Google Suite, Microsoft Suite, Android Studio, Adobe CC, Maya, Krita, OBS
+#### **Programming Languages**: Unity C#/.NET, C, Python, SQL, HTML/CSS
+#### **Technical Software**: Unity, Unreal, AWS, Google Firebase, Atlassian Suite (Sourcetree, Jira, Confluence), Google Suite, Microsoft Suite, Android Studio, Adobe CC, Maya, Krita, OBS
 
 ### Work Experience
 **XR Software Engineer @ Immersive Hearing Technologies (_November 2024 - Present_)**
@@ -65,7 +65,7 @@ English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
 - Certified Healthcare Simulation Operations Specialist (CHSOS) | Society of Simulation and Healthcare
 
 #### 5-Year Goals and Milestones
-1. Spanish Fluency | Baselang Spanish (_Est. May 2025 - July 2027_)
+1. Spanish Fluency (_Est. June 2024 - August 2027_)
 2. Graduate Certificate, Computer Programming | North Carolina State University (_Est. August 2026 - July 2027_)
 3. M.S., Computer Science | Pontificia Universidad Católica del Perú (_Est. August 2027 - July 2029_)
 4. Eng.D., Data Science | Eindhoven University of Technology (_Est. August 2030 - July 2032_)
