@@ -19,6 +19,7 @@
 **XR Software Engineer @ Tietronix Software (_March 2019 - June 2022_)**
 - big impact project 1
 - big impact project 2
+---
 
 ### Projects
 **Joyfair (_January 2021 - September 2023_)**
@@ -36,6 +37,7 @@
 **Conception - Brainstorming Toolkit (_January - February 2016_)**
 - big impact project 1
 - big impact project 2
+---
 
 ### Volunteering
 **Family Homestead Helper @ Carhuaz, Peru (_June - July 2025_)**
@@ -53,7 +55,7 @@
 **Mentor for Game Design Concepts Group (_May - August 2015_)**
 - big impact project 1
 - big impact project 2
-
+---
 
 ### Education
 #### Degrees
@@ -65,6 +67,7 @@
 
 ### Languages
 English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
+---
 
 ### 5-Year Goals and Milestones
 1. Spanish Fluency (_Est. June 2024 - August 2027_)
