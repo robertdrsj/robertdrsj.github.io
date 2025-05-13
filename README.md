@@ -24,27 +24,27 @@
 ---
 
 ### Volunteering
-**Homestead Helper @ Carhuaz, Peru (_June 2025_)**
+**Homestead Helper @ Carhuaz, Peru (_June 2025_)**<br>
 Volunteered for a rural Peruvian homestay to assist low-income families with crop gathering, cooking, and supplies provisioning.
 
-**Assistant Organizer and Contributor @ Itch.io Hurricane Relief Fund (_September 2017_)**
+**Assistant Organizer and Contributor @ Itch.io Hurricane Relief Fund (_September 2017_)**<br>
 The Hurricane Relief Bundle is a package of downloadable games and other work on Itch.io, organized to raise funds for hurricane relief efforts. Over $10,000 was raised through shared efforts with other organizers and contributors. My [Game Brainstorming App](https://robertdrsj.github.io/docs/appdev/2016_app_conception) was included in this bundle.
 
-**VR Exhibit Staff Member @ Indie Megabooth (_July 2017_)**
+**VR Exhibit Staff Member @ Indie Megabooth (_July 2017_)**<br>
 Volunteered at Indie MEGASHOW's first exhibition in Atlanta, GA to help showcase creative indie communities (art, music and games) and grow the independent game developer scene further.
 
-**Mentor for Game Design Concepts Group (_May - August 2015_)**
+**Mentor for Game Design Concepts Group (_May - August 2015_)**<br>
 Constructed manual/digital prototypes of interactive media, practiced critical analysis skills, and researched relevant topics to simulate player experiences.
 
 ---
 
 ## Education
 ### Degrees
-- B.S., Psychology @ The University of Houston (Main)
+B.S., Psychology @ The University of Houston (Main)
 
 ### Certifications
-- Google IT Support Professional @ Google
-- Certified Healthcare Simulation Operations Specialist (CHSOS) @ Society of Simulation and Healthcare
+Google IT Support Professional @ Google<br>
+Certified Healthcare Simulation Operations Specialist (CHSOS) @ Society of Simulation and Healthcare
 
 ### Languages
 English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
@@ -70,77 +70,59 @@ In summary, I intend to achieve the following goals by 2032:
 ---
 
 ## All Projects, 2016-2025 (19)
-[<u>**AWS Authentication & App Licensing Solution (_2025, Meta Quest 3 & Android_)**</u>](https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend_TODO)
-
+[**AWS Authentication & App Licensing Solution (_2025, Meta Quest 3 & Android_)**](https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend_TODO)<br>
 Short summary.
 
-[<u>**XR Passthrough Update (_2025, Meta Quest 3_)**</u>](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)
-
+[**XR Passthrough Update (_2025, Meta Quest 3_)**](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)<br>
 Short summary.
 
-[<u>**Local TCP/IP Multiclient Server (_2025, Android Mobile_)**</u>](https://robertdrsj.github.io/docs/tools/2025_tools_multiclienttcpserver_TODO)
-
+[**Local TCP/IP Multiclient Server (_2025, Android_)**](https://robertdrsj.github.io/docs/tools/2025_tools_multiclienttcpserver_TODO)<br>
 Short summary.
 
-[<u>**First Aid Interactive Onboarding (_2024, Meta Quest 3_)**</u>](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)
-
+[**First Aid Interactive Onboarding (_2024, Meta Quest 3_)**](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)<br>
 Short summary.
 
-[<u>**Brand Configuration & Colorblind Verification Tool (_2023, Unity Editor_)**</u>](https://robertdrsj.github.io/docs/tools/2023_tools_colorpaletteui_TODO)
-
+[**Brand Configuration & Colorblind Verification Tool (_2023, Unity Editor_)**](https://robertdrsj.github.io/docs/tools/2023_tools_colorpaletteui_TODO)<br>
 Short summary.
 
-[<u>**Neighborhood Shopping App (_2023, Android/iOS_)**</u>](https://robertdrsj.github.io/docs/appdev/2023_app_joyfair_TODO)
-
+[**Neighborhood Shopping App (_2023, Android/iOS_)**](https://robertdrsj.github.io/docs/appdev/2023_app_joyfair_TODO)<br>
 Short summary.
 
-[<u>**C-Arm Configuration Tool (_2022, Unity Editor_)**</u>](https://robertdrsj.github.io/docs/tools/2022_tools_carmui_TODO)
-
+[**C-Arm Configuration Tool (_2022, Unity Editor_)**](https://robertdrsj.github.io/docs/tools/2022_tools_carmui_TODO)<br>
 Short summary.
 
-[<u>**NASA XOSS Mars Simulation SBIR (_2022, HTC Vive Focus 3_)**</u>](https://robertdrsj.github.io/docs/xrdev/2022_xr_xossvr_TODO)
+[**NASA XOSS Mars Simulation SBIR (_2022, HTC Vive Focus 3_)**](https://robertdrsj.github.io/docs/xrdev/2022_xr_xossvr_TODO)<br>
 Short summary.
 
-[<u>**Long-Distance Medical Robotics (_2022, HoloLens 2_)**</u>](https://robertdrsj.github.io/docs/xrdev/2022_xr_roboticarmmr_TODO)
-
+[**Long-Distance Medical Robotics (_2022, HoloLens 2_)**](https://robertdrsj.github.io/docs/xrdev/2022_xr_roboticarmmr_TODO)<br>
 Short summary.
 
-[<u>**Oil Coalescer Onboarding (_2021, HoloLens 2_)**</u>](https://robertdrsj.github.io/docs/xrdev/2021_xr_coalescermr_TODO)
-
+[**Oil Coalescer Onboarding (_2021, HoloLens 2_)**](https://robertdrsj.github.io/docs/xrdev/2021_xr_coalescermr_TODO)<br>
 Short summary.
 
-[<u>**First Responder Simulation SBIR (_2021, HTC Vive Pro Eye_)**</u>](https://robertdrsj.github.io/docs/xrdev/2021_xr_firstrespondervr_TODO)
-
+[**First Responder Simulation SBIR (_2021, HTC Vive Pro Eye_)**](https://robertdrsj.github.io/docs/xrdev/2021_xr_firstrespondervr_TODO)<br>
 Short summary.
 
-[<u>**Interactive 3D Engine as Touchtable (_2020, Universal Windows_)**</u>](https://robertdrsj.github.io/docs/appdev/2020_app_enginetouchtable)
-
+[**Interactive 3D Engine as Touchtable (_2020, Universal Windows_)**](https://robertdrsj.github.io/docs/appdev/2020_app_enginetouchtable)<br>
 Short summary.
 
-[<u>**Endoscopy Simulation (_2020, Meta/Oculus Quest 1_)**</u>](https://robertdrsj.github.io/docs/xrdev/2020_xr_endoscopybaylor)
-
+[**Endoscopy Simulation (_2020, Meta/Oculus Quest_)**](https://robertdrsj.github.io/docs/xrdev/2020_xr_endoscopybaylor)<br>
 Short summary.
 
-[<u>**Phased Array Modding (_2019, HoloLens_)**</u>](https://robertdrsj.github.io/docs/xrdev/2019_xr_phasedarraymr)
-
+[**Phased Array Modding (_2019, HoloLens_)**](https://robertdrsj.github.io/docs/xrdev/2019_xr_phasedarraymr)<br>
 Short summary.
 
-[<u>**3D Tabletop Graph (_2019, HoloLens_)**</u>](https://robertdrsj.github.io/docs/xrdev/2019_xr_tablegraphmr)
-
+[**3D Tabletop Graph (_2019, HoloLens_)**](https://robertdrsj.github.io/docs/xrdev/2019_xr_tablegraphmr)<br>
 Short summary.
 
-[<u>**Interactive 3D Engine as Mixed Reality (_2019, HoloLens_)**</u>](https://robertdrsj.github.io/docs/xrdev/2019_xr_enginedemomr)
-
+[**Interactive 3D Engine as Mixed Reality (_2019, HoloLens_)**](https://robertdrsj.github.io/docs/xrdev/2019_xr_enginedemomr)<br>
 Short summary.
 
-[<u>**Faux Fliers (_2017, PC Executable_)**</u>](https://robertdrsj.github.io/docs/gamedev/2017_game_fauxfliers)
-
+[**Faux Fliers (_2017, PC Executable_)**](https://robertdrsj.github.io/docs/gamedev/2017_game_fauxfliers)<br>
 Short summary.
 
-[<u>**Partial (_2016, PC Executable_)**</u>](https://robertdrsj.github.io/docs/gamedev/2016_game_partial)
-
+[**Partial (_2016, PC Executable_)**](https://robertdrsj.github.io/docs/gamedev/2016_game_partial)<br>
 Short summary.
 
-[<u>**Game Brainstorming App (_2016, PC Executable_)**</u>](https://robertdrsj.github.io/docs/appdev/2016_app_conception)
-
+[**Game Brainstorming App (_2016, PC Executable_)**](https://robertdrsj.github.io/docs/appdev/2016_app_conception)<br>
 Short summary.
