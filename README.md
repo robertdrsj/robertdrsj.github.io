@@ -54,17 +54,19 @@
 - big impact project 1
 - big impact project 2
 
-### Languages
-English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
 
 ### Education
 #### Degrees
 - B.S., Psychology | The University of Houston (Main)
+
 #### Certifications
 - Google IT Support Professional | Google
 - Certified Healthcare Simulation Operations Specialist (CHSOS) | Society of Simulation and Healthcare
 
-#### 5-Year Goals and Milestones
+### Languages
+English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
+
+### 5-Year Goals and Milestones
 1. Spanish Fluency (_Est. June 2024 - August 2027_)
 2. Graduate Certificate, Computer Programming | North Carolina State University (_Est. August 2026 - July 2027_)
 3. M.S., Computer Science | Pontificia Universidad Católica del Perú (_Est. August 2027 - July 2029_)
