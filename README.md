@@ -20,7 +20,7 @@
 - big impact project 1
 - big impact project 2
 
----
+___
 
 ### Projects
 **Joyfair (_January 2021 - September 2023_)**
@@ -39,7 +39,7 @@
 - big impact project 1
 - big impact project 2
 
----
+___
 
 ### Volunteering
 **Family Homestead Helper @ Carhuaz, Peru (_June - July 2025_)**
@@ -58,7 +58,7 @@
 - big impact project 1
 - big impact project 2
 
----
+___
 
 ### Education
 #### Degrees
@@ -71,7 +71,7 @@
 ### Languages
 English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
 
----
+___
 
 ### 5-Year Goals and Milestones
 1. Unity Certified
@@ -80,4 +80,4 @@ English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
 4. Spanish Fluency (_Est. June 2024 - August 2027_)
 5. Graduate Certificate, Computer Programming @ North Carolina State University (_Est. August 2026 - July 2027_)
 6. M.S., Computer Science (Data Science Track) @ North Carolina State University (_Est. August 2027 - July 2029_)
-7. Eng.D., Human-Computer Interaction @ Eindhoven University of Technology (_Est. August 2030 - July 2032_)
+7. Eng.D., Data Science @ Eindhoven University of Technology (_Est. August 2030 - July 2032_)
