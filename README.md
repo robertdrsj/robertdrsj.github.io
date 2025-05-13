@@ -19,26 +19,22 @@
 **XR Software Engineer @ Tietronix Software (_March 2019 - June 2022_)**
 - big impact project 1
 - Relevant projects
-- - 
+  - 
 
 ---
 
 ### Volunteering
 **Homestead Helper @ Carhuaz, Peru (_June 2025_)**
-- big impact project 1
-- big impact project 2
+Volunteered for a rural Peruvian homestay to assist low-income families with crop gathering, cooking, and supplies provisioning.
 
 **Assistant Organizer and Contributor @ Itch.io Hurricane Relief Fund (_September 2017_)**
-- big impact project 1
-- big impact project 2
+The Hurricane Relief Bundle is a package of downloadable games and other work on Itch.io, organized to raise funds for hurricane relief efforts. Over $10,000 was raised through shared efforts with other organizers and contributors. My [Game Brainstorming App](https://robertdrsj.github.io/docs/appdev/2016_app_conception) was included in this bundle.
 
 **VR Exhibit Staff Member @ Indie Megabooth (_July 2017_)**
-- big impact project 1
-- big impact project 2
+Volunteered at Indie MEGASHOW's first exhibition in Atlanta, GA to help showcase creative indie communities (art, music and games) and grow the independent game developer scene further.
 
 **Mentor for Game Design Concepts Group (_May - August 2015_)**
-- big impact project 1
-- big impact project 2
+Constructed manual/digital prototypes of interactive media, practiced critical analysis skills, and researched relevant topics to simulate player experiences.
 
 ---
 
@@ -73,57 +69,78 @@ In summary, I intend to achieve the following goals by 2032:
 
 ---
 
-## All Projects, 2016-2025 (18)
-[**AWS Authentication & App Licensing Solution (_2025, Meta Quest 3 & Android_)**](https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend_TODO)
+## All Projects, 2016-2025 (19)
+[<u>**AWS Authentication & App Licensing Solution (_2025, Meta Quest 3 & Android_)**</u>](https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend_TODO)
+
 Short summary.
 
-[**XR Passthrough Update (_2025, Meta Quest 3_)**](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)
+[<u>**XR Passthrough Update (_2025, Meta Quest 3_)**</u>](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)
+
 Short summary.
 
-[**Local TCP/IP Multiclient Server (_2025, Android Mobile_)**](https://robertdrsj.github.io/docs/tools/2025_tools_multiclienttcpserver_TODO)
+[<u>**Local TCP/IP Multiclient Server (_2025, Android Mobile_)**</u>](https://robertdrsj.github.io/docs/tools/2025_tools_multiclienttcpserver_TODO)
+
 Short summary.
 
-[**First Aid Interactive Onboarding (_2024, Meta Quest 3_)**](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)
+[<u>**First Aid Interactive Onboarding (_2024, Meta Quest 3_)**</u>](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend_TODO)
+
 Short summary.
 
-[**Brand Configuration & Colorblind Verification Tool (_2023, Unity Editor_)**](https://robertdrsj.github.io/docs/tools/2023_tools_colorpaletteui_TODO)
+[<u>**Brand Configuration & Colorblind Verification Tool (_2023, Unity Editor_)**</u>](https://robertdrsj.github.io/docs/tools/2023_tools_colorpaletteui_TODO)
+
 Short summary.
 
-[**Neighborhood Shopping App (_2023, Android/iOS_)**](https://robertdrsj.github.io/docs/appdev/2023_app_joyfair_TODO)
+[<u>**Neighborhood Shopping App (_2023, Android/iOS_)**</u>](https://robertdrsj.github.io/docs/appdev/2023_app_joyfair_TODO)
+
 Short summary.
 
-[**C-Arm Configuration Tool (_2022, Unity Editor_)**](https://robertdrsj.github.io/docs/tools/2022_tools_carmui_TODO)
+[<u>**C-Arm Configuration Tool (_2022, Unity Editor_)**</u>](https://robertdrsj.github.io/docs/tools/2022_tools_carmui_TODO)
+
 Short summary.
 
-[**NASA XOSS Mars Simulation SBIR (_2022, HTC Vive Focus 3_)**](https://robertdrsj.github.io/docs/xrdev/2022_xr_xossvr_TODO)
+[<u>**NASA XOSS Mars Simulation SBIR (_2022, HTC Vive Focus 3_)**</u>](https://robertdrsj.github.io/docs/xrdev/2022_xr_xossvr_TODO)
 Short summary.
 
-[**Long-Distance Medical Robotics (_2022, HoloLens 2_)**](https://robertdrsj.github.io/docs/xrdev/2022_xr_roboticarmmr_TODO)
+[<u>**Long-Distance Medical Robotics (_2022, HoloLens 2_)**</u>](https://robertdrsj.github.io/docs/xrdev/2022_xr_roboticarmmr_TODO)
+
 Short summary.
 
-[**Oil Coalescer Onboarding (_2021, HoloLens 2_)**](https://robertdrsj.github.io/docs/xrdev/2021_xr_coalescermr_TODO)
+[<u>**Oil Coalescer Onboarding (_2021, HoloLens 2_)**</u>](https://robertdrsj.github.io/docs/xrdev/2021_xr_coalescermr_TODO)
+
 Short summary.
 
-[**First Responder Simulation SBIR (_2021, HTC Vive Pro Eye_)**](https://robertdrsj.github.io/docs/xrdev/2021_xr_firstrespondervr_TODO)
+[<u>**First Responder Simulation SBIR (_2021, HTC Vive Pro Eye_)**</u>](https://robertdrsj.github.io/docs/xrdev/2021_xr_firstrespondervr_TODO)
+
 Short summary.
 
-[**Interactive 3D Engine as Touchtable (_2020, Universal Windows_)**](https://robertdrsj.github.io/docs/appdev/2020_app_enginetouchtable)
+[<u>**Interactive 3D Engine as Touchtable (_2020, Universal Windows_)**</u>](https://robertdrsj.github.io/docs/appdev/2020_app_enginetouchtable)
+
 Short summary.
 
-[**Phased Array Modding (_2019, HoloLens_)**](https://robertdrsj.github.io/docs/xrdev/2019_xr_phasedarraymr)
+[<u>**Endoscopy Simulation (_2020, Meta/Oculus Quest 1_)**</u>](https://robertdrsj.github.io/docs/xrdev/2020_xr_endoscopybaylor)
+
 Short summary.
 
-[**3D Tabletop Graph (_2019, HoloLens_)**](https://robertdrsj.github.io/docs/xrdev/2019_xr_tablegraphmr)
+[<u>**Phased Array Modding (_2019, HoloLens_)**</u>](https://robertdrsj.github.io/docs/xrdev/2019_xr_phasedarraymr)
+
 Short summary.
 
-[**Interactive 3D Engine as Mixed Reality (_2019, HoloLens_)**](https://robertdrsj.github.io/docs/xrdev/2019_xr_enginedemomr)
+[<u>**3D Tabletop Graph (_2019, HoloLens_)**</u>](https://robertdrsj.github.io/docs/xrdev/2019_xr_tablegraphmr)
+
 Short summary.
 
-[**Faux Fliers (_2017, PC Executable_)**](https://robertdrsj.github.io/docs/gamedev/2017_game_fauxfliers)
+[<u>**Interactive 3D Engine as Mixed Reality (_2019, HoloLens_)**</u>](https://robertdrsj.github.io/docs/xrdev/2019_xr_enginedemomr)
+
 Short summary.
 
-[**Partial (_2016, PC Executable_)**](https://robertdrsj.github.io/docs/gamedev/2016_game_partial)
+[<u>**Faux Fliers (_2017, PC Executable_)**</u>](https://robertdrsj.github.io/docs/gamedev/2017_game_fauxfliers)
+
 Short summary.
 
-[**Game Brainstorming App (_2016, PC Executable_)**](https://robertdrsj.github.io/docs/appdev/2016_app_conception)
+[<u>**Partial (_2016, PC Executable_)**</u>](https://robertdrsj.github.io/docs/gamedev/2016_game_partial)
+
+Short summary.
+
+[<u>**Game Brainstorming App (_2016, PC Executable_)**</u>](https://robertdrsj.github.io/docs/appdev/2016_app_conception)
+
 Short summary.
