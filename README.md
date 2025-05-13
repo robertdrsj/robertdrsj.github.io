@@ -19,6 +19,7 @@
 **XR Software Engineer @ Tietronix Software (_March 2019 - June 2022_)**
 - big impact project 1
 - big impact project 2
+
 ---
 
 ### Projects
@@ -37,6 +38,7 @@
 **Conception - Brainstorming Toolkit (_January - February 2016_)**
 - big impact project 1
 - big impact project 2
+
 ---
 
 ### Volunteering
@@ -55,6 +57,7 @@
 **Mentor for Game Design Concepts Group (_May - August 2015_)**
 - big impact project 1
 - big impact project 2
+
 ---
 
 ### Education
@@ -67,10 +70,14 @@
 
 ### Languages
 English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
+
 ---
 
 ### 5-Year Goals and Milestones
-1. Spanish Fluency (_Est. June 2024 - August 2027_)
-2. Graduate Certificate, Computer Programming @ North Carolina State University (_Est. August 2026 - July 2027_)
-3. M.S., Computer Science (Data Science Track) @ North Carolina State University (_Est. August 2027 - July 2029_)
-4. Eng.D., Human-Computer Interaction @ Eindhoven University of Technology (_Est. August 2030 - July 2032_)
+1. Unity Certified
+2. AWS Certified
+3. .NET Certified
+4. Spanish Fluency (_Est. June 2024 - August 2027_)
+5. Graduate Certificate, Computer Programming @ North Carolina State University (_Est. August 2026 - July 2027_)
+6. M.S., Computer Science (Data Science Track) @ North Carolina State University (_Est. August 2027 - July 2029_)
+7. Eng.D., Human-Computer Interaction @ Eindhoven University of Technology (_Est. August 2030 - July 2032_)
