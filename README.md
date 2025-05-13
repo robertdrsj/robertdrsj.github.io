@@ -74,16 +74,13 @@ English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
 ---
 
 ### Goals and Milestones
-Over the next 5-8 years, there are two specific goals I intend to accomplish: (1) Obtain a graduate degree in STEM and (2) become fluent in Spanish in a professional capacity. I believe that expanding my knowledge into fields outside of XR and game development and into cloud, data, and AI technologies will aid my growth as a Software Engineer. To that end, a graduate degree and supplemental certifications will help get me there.
+Over the next 8 years, there are three specific goals I intend to accomplish: (1) Publish 3-5 products on the Unity Asset Store, (2) Obtain a graduate degree in STEM and (3) become fluent in Spanish in a professional capacity. Over the _last_ 8 years, I've learned much about common pain points in XR and app production, and I would like to share some of the solutions I've created with other creators and organizations. I also believe that expanding my knowledge into fields outside of XR will aid my growth as a Software Engineer. To that end, a graduate degree and supplemental certifications will help get me there.
 
 As for Spanish, it has been a great experience thus far to immerse myself in other cultures (most recently in LATAM), and learning a new language has provided me with a new avenue towards understanding rural and indigenous communities, as well as becoming a more effective volunteer and global citizen. And as someone who spends most of their professional time in front of a computer screen, volunteering allows me to be more physically and socially active whilst providing balance between high- and low-tech lifestyles.
 
-1. AWS Certified Cloud Practitioner, AI Practitioner (_Est. May - September 2025_)
-2. AWS Certified Associate: Developer, Data Engineer, Machine Learning Engineer (_Est. September - December 2025_)
-3. DELE B1 Spanish: Intermediate (_Est. June 2024 - December 2025_)
-4. Microsoft Azure Certified Associate: Developer, Network Engineer, Data Scientist (_Est. January - March 2026_)
-5. DELE B2 Spanish: Upper Intermediate (_Est. January - December 2026_)
-6. Graduate Certificate, Computer Programming @ North Carolina State University (_Est. August 2026 - 2027_)
-7. DELE C1 Spanish: Effective Operational Proficiency (_Est. January - December 2027_)
-8. M.S., Computer Science (Data Science Track) @ North Carolina State University (_Est. August 2027 - 2029_)
-9. Eng.D., Data Science @ Eindhoven University of Technology (_Est. August 2030 - 2032_)
+In summary, I intend to achieve the following goals by 2032:
+1. Publish 3 asset packs on the Unity Asset Store
+2. Graduate Certificate, Computer Programming @ North Carolina State University
+3. DELE B1 Spanish: Intermediate
+4. M.S., Computer Science (Data Science Track) @ North Carolina State University
+5. Eng.D., Data Science @ Eindhoven University of Technology
