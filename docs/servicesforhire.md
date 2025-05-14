@@ -6,15 +6,14 @@ First of all, thank you for considering my services for your next project! If in
 - Remote/on-site required or flexible
 - Estimated contract duration<br>
 
-Core services include:<br>
+## Core Services
+**Software Production** (_uses Project-Value Based Rates_)
+- **App/Game Development**: Unity (C#, JSON, Shader Graph), Unreal (Blueprints), Android Studio, Python, C, HTML/CSS, Asset Optimization
+- **Backend Development and Cloud Operations**: AWS, Firebase, Azure
+- **Version Control and Backups**: Git, GitHub, Sourcetree
+- **Project Management, Roadmapping, and Documentation**: Jira/Asana (Agile, Scrum, Kanban), Confluence, Google Suite, Microsoft Suite
 
-**Software Production** (_Uses Project-Value Based Rates_)
-- App/Game Development: Unity (C#, JSON, Shader Graph), Unreal (Blueprints), Android Studio, Python, C, HTML/CSS, Asset Optimization
-- Backend Development and Cloud Operations: AWS, Firebase, Azure
-- Version Control and Backups: Git, GitHub, Sourcetree
-- Project Management (Agile, Scrum, Kanban), Roadmapping, and Documentation: Jira, Asana, Confluence, Google Suite, Microsoft Suite
-
-**Consultation** (_Uses Time-Based Rates_)
+**Consultation** (_uses Time-Based Rates_)
 - Unity App/Game Prototyping (Software Production services for up to two weeks)
 - Unity Troubleshooting and Resolution (Software Production services for up to two weeks)
 - User Growth Strategies

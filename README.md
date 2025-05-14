@@ -1,9 +1,9 @@
-# XR Software Engineer (NOTE: PROJECT PAGES IN PROGRESS)
+# XR Software Engineer (_Note: Project Pages in Progress_)
 _Contact: robert.drsj(at)gmail.com_<br>
 
 Hey there!<br>
 
-I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, and government.<br>
+I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, manufacturing, energy, and government.<br>
 
 Looking forward to working with you!
 
@@ -15,8 +15,8 @@ Looking forward to working with you!
 
 ## Work Experience
 **XR Software Engineer @ Immersive Hearing Technologies (_November 2024 - Present_)**<br>
-[AWS Authentication & App Licensing Solution (_2025, Meta Quest 3 & Android_)](https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend)<br>
-Constructed the startup's backend from scratch with AWS SDK for .NET and Unity in order to manage user app access and automate software license distribution.
+[AWS Authentication & App Licensing Solution (_Present, Meta Quest 3 & Android_)](https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend)<br>
+Constructed the company's backend from scratch with AWS SDK for .NET and Unity in order to manage user app access and automate software license distribution.
 
 [XR Passthrough Update (_2025, Meta Quest 3_)](https://robertdrsj.github.io/docs/xrdev/2025_tools_awsbackend)<br>
 Designed and implemented passthrough functionality and usability improvements for a deployed hearing aid demo application, which was released to World of Hearing clinics worldwide with no reported issues.
@@ -45,7 +45,7 @@ Significantly reduced simulation latency issues by ~150%, drastically improved r
 Refined the user experience and technical performance of an existing touchtable app to be used 24/7 in the demo room of a commercial trucking manufacturer.
 
 [Endoscopy Simulation (_2020, Meta/Oculus Quest_)](https://robertdrsj.github.io/docs/xrdev/2020_xr_endoscopybaylor)<br>
-Successfully executed an adopted project that was $250k over-budget and a year past due, assuming sole responsibility for execution and delivery with quick turnaround.
+Adopted a project that was significantly overbudget and a year overdue, and assumed responsibility as the sole developer with high quality execution and delivery with quick turnaround.
 
 [Phased Array Modding (_2019, HoloLens_)](https://robertdrsj.github.io/docs/xrdev/2019_xr_phasedarraymr)<br>
 Accelerated negotiations between Northrop-Grumman and Tietronix for future SBIR opportunities as the lead app designer and developer.
@@ -128,7 +128,7 @@ Designed and developed a mobile app where locals can set up a mobile temporary s
 Redesigned and refactored internal c-arm component scripts to be more user-friendly for medical simulation designers when creating surgical simulations.
 
 [NASA XOSS Mars Simulation SBIR (_2022, HTC Vive Focus 3_)](https://robertdrsj.github.io/docs/xrdev/2022_xr_xossvr)<br>
-Developed multiplayer support for Mars Rover driving and passenger 
+Implemented multiplayer support for virtual Mars Rover driving and passenger seating using Unreal.
 
 [Long-Distance Medical Robotics (_2022, HoloLens 2_)](https://robertdrsj.github.io/docs/xrdev/2022_xr_roboticarmmr)<br>
 Constructed an Arduino robot prototype with Wi-Fi and Bluetooth connectivity, programmed to be remotely controlled by a HoloLens.
@@ -143,7 +143,7 @@ Significantly reduced simulation latency issues by ~150%, drastically improved r
 Refined the user experience and technical performance of an existing touchtable app to be used 24/7 in the demo room of a commercial trucking manufacturer.
 
 [Endoscopy Simulation (_2020, Meta/Oculus Quest_)](https://robertdrsj.github.io/docs/xrdev/2020_xr_endoscopybaylor)<br>
-Adopted a project that was $250k over-budget and a year past due, assuming responsibility as the sole developer for high quality execution and delivery with quick turnaround.
+Adopted a project that was significantly overbudget and a year overdue, and assumed responsibility as the sole developer with high quality execution and delivery with quick turnaround.
 
 [Phased Array Modding (_2019, HoloLens_)](https://robertdrsj.github.io/docs/xrdev/2019_xr_phasedarraymr)<br>
 Accelerated negotiations between Northrop-Grumman and Tietronix for future SBIR opportunities as the lead app designer and developer.
