@@ -1,8 +1,13 @@
 # XR Software Engineer (NOTE: PROJECT PAGES IN PROGRESS)
+_Contact: robert.drsj(at)gmail.com_<br>
 
-Hey there! I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, and government.
+Hey there!<br>
 
-_Contact: robert.drsj(at)gmail.com_
+I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, and government.<br>
+
+Looking forward to working with you!
+
+---
 
 #### **Programming Languages**: Unity C#/.NET, C, Python, SQL, HTML/CSS, Git
 #### **Software**: Unity, Unreal, AWS, Google Firebase, Atlassian Suite (Sourcetree, Jira, Confluence), Google Suite, Microsoft Suite, Android Studio, Adobe CC, Maya, OBS
