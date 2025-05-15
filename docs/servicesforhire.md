@@ -29,9 +29,9 @@ First of all, thank you for considering my services for your next project! If in
 Pay rates often follow this format, however there is room for flexibility that can be negotiated during discussion and correspondence.
 
 ### Time-Based Rates
-Hourly Rate: **$85 USD / Hour**. Any work that requires more than 4 hours in one day must use the daily rate. (Often used for consultation sessions less than 3 hours in duration.)<br>
-Daily Rate: **$680 USD / Day**. Any work that requires more than 3 days in one week must use the weekly rate. (Often used for troubleshooting or an audit.)<br>
-Weekly Rate: **$3,400 USD / Week**. Any work that requires more than 2 weeks must use a project-value based rate with a minimum 2-month duration. (Often used for planning and prototyping architecture with basic features.)<br>
+Hourly Rate: **$85 USD / Hour**. Often used for consultation sessions less than 3 hours in duration. Any work that requires more than 4 hours in one day must use the daily rate.<br>
+Daily Rate: **$680 USD / Day**. Often used for troubleshooting or an audit. Any work that requires more than 3 days in one week must use the weekly rate.<br>
+Weekly Rate: **$3,400 USD / Week**. Often used for planning and prototyping architecture with basic features. Any work that requires more than 2 weeks must use a project-value based rate with a minimum 2-month duration.<br>
 
 Invoices are sent after the expected final hour of work using Net 30 terms.
 
