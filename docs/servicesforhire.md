@@ -26,10 +26,12 @@ First of all, thank you for considering my services for your next project! If in
 ---
 
 ## Minimum Rates
+Pay rates often follow this format, however there is room for flexibility that can be negotiated during discussion and correspondence.
+
 ### Time-Based Rates
-Hourly Rate: **$85 USD / Hour**. Any work that requires more than 4 hours in one day must use the daily rate.<br>
-Daily Rate: **$680 USD / Day**. Any work that requires more than 4 days in one week must use the weekly rate.<br>
-Weekly Rate: **$3,400 USD / Week**. Any work that requires more than 2 weeks must use a project-value based rate with a minimum 2-month duration.<br>
+Hourly Rate: **$85 USD / Hour**. Any work that requires more than 4 hours in one day must use the daily rate. (Often used for consultation sessions less than 3 hours in duration.)<br>
+Daily Rate: **$680 USD / Day**. Any work that requires more than 3 days in one week must use the weekly rate. (Often used for troubleshooting or an audit.)<br>
+Weekly Rate: **$3,400 USD / Week**. Any work that requires more than 2 weeks must use a project-value based rate with a minimum 2-month duration. (Often used for planning and prototyping architecture with basic features.)<br>
 
 Invoices are sent after the expected final hour of work using Net 30 terms.
 
@@ -39,17 +41,17 @@ Rates start at **$28k for a 2-month duration project**. If the project is expect
 **25-50% Due at Project Start**. We hold a kickoff meeting to review project scope, requirements, and timeline.
 - 50% of project rate due for projects no longer than 6 months in duration.
 - 40% of project rate due for projects 6-12 months in duration.
-- 25% of project rate due for projects longer than 1 year in duration.<br>
+- 25% of project rate due for projects 1-2 years in duration. Contracts made with a single client cannot exceed 2 years in the United States.<br>
 
 **Remainder is Divided based on # of Milestones**:
-- Milestones typically include at least one round of Feature/Task Completion, Client Approval, and optionally QA Improvements. The contract terminates or requires revision if QA Improvements fall out of scope or persist for more than three weeks without approval.
-- Project Completion is invoiced once the final feature/task result is approved by you.
+- Milestones typically include at least one round of **Feature/Task Completion**, **Client Approval**, and optionally **QA Improvements**. _The contract terminates or requires revision if QA Improvements fall out of scope or persist without joint agreement for more than two weeks._
+- **Project Completion** is invoiced once the final feature/task result is approved by you.
 - A 30-day warranty period is included to cover post-release debugging that require no more than 35 hours of total work. After the warranty period or 35 hours of total work, there is an hourly rate which can be extended up to a agreed reasonable length of time.<br>
 
 ---
 
 ## Budget Scenarios
-If you're unsure which services or rates work best, please consider the scenarios below and determine which obstacle fits your situation:<br>
+If you are unsure which services or rates work best, please consider the scenarios below and determine which obstacle fits your situation:<br>
 
 **Option A: We have a clear vision for the end product. It needs to be built within certain specifications, with some flexibility for efficiency improvements**: <u>Software Production</u> services will be more heavily utilized, with a mix of <u>Software Production</u> and <u>Consultation</u> services during pre- and post-production. A <u>Project-Value Based Rate</u> will primarily be used.<br>
 
