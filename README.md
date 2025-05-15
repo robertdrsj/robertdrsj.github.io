@@ -87,7 +87,7 @@ English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
 ---
 
 ## Goals and Milestones
-Over the next 8 years, there are three specific goals I intend to accomplish: (1) Publish 3-5 products on the Unity Asset Store, (2) Obtain a graduate degree in STEM and (3) become fluent in Spanish in a professional capacity.
+Over the next 8 years, there are three specific goals I intend to accomplish: (1) Publish 3-5 products on the Unity Asset Store, (2) obtain a graduate degree in STEM and (3) become fluent in Spanish in a professional capacity.
 
 Over the last 8 years, I've learned much about common pain points in XR and app production, and I would like to share some of the solutions I've created with other creators and organizations. I also believe that expanding my knowledge into fields outside of XR will aid my growth as a Software Engineer. To that end, a graduate degree and supplemental certifications will help get me there.
 
