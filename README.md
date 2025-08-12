@@ -1,16 +1,16 @@
-# XR Software Engineer & Project Manager
+# XR Software Engineer
 _Contact: robert.drsj(at)gmail.com_<br>
 
 Hey there!<br>
 
-I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, manufacturing, energy, and government.<br>
+I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, games, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, industrial, energy, and government.<br>
 
 Looking forward to working with you!
 
 ---
 
-#### **Programming Languages**: Unity C#/.NET, C, Python, SQL, HTML/CSS, Git
-#### **Software**: Unity, Unreal, AWS, Google Firebase, Atlassian Suite (Sourcetree, Jira, Confluence), Google Suite, Microsoft Suite, Android Studio, Adobe CC, Maya, OBS
+#### **Programming Languages**: Unity C#/.NET, C/C++, Python, Java, SQL, HTML/CSS, Git
+#### **Software**: Unity, Unreal, AWS, Google Firebase, Atlassian Suite (Sourcetree, Jira, Confluence), Google Suite, Microsoft Suite, Android Studio, Adobe CC, Maya, Blender, OBS
 #### **Hardware**: Windows, Mac, Android, iOS, Arduino, Raspberry Pi
 
 ## Work Experience
@@ -86,22 +86,6 @@ Certified Healthcare Simulation Operations Specialist (CHSOS) @ Society of Simul
 
 ### Languages
 English (fluent), Spanish-LATAM (intermediate), Korean (beginner)
-
----
-
-## Goals and Milestones
-Over the next 8 years, there are three specific goals I intend to accomplish: (1) Publish a products on the Unity Asset Store, (2) obtain a graduate degree in STEM and (3) become fluent in Spanish in a professional capacity.
-
-Over the last 8 years, I've learned much about common pain points in XR and app production, and I would like to share some of the solutions I've created with other creators and organizations. I also believe that expanding my knowledge into fields outside of XR will aid my growth as a Software Engineer and Project Manager. To that end, a graduate degree and supplemental certifications will help get me there.
-
-As for Spanish, it has been a great experience thus far to immerse myself in other cultures (most recently in LATAM), and learning a new language has provided me with a new avenue towards understanding rural and indigenous communities, as well as becoming a more effective volunteer and global citizen. And as someone who spends most of their professional time in front of a computer screen, volunteering allows me to be more physically and socially active whilst providing balance between high- and low-tech lifestyles.
-
-In summary, I intend to achieve the following goals by 2032:
-1. Obtain a Project Management Professional (PMP) certification.
-2. Publish 3 asset packs on the Unity Asset Store
-3. Graduate Certificate, Computer Programming @ North Carolina State University
-4. DELE B1 Spanish: Intermediate
-5. M.S., Computer Science (Data Science Track) @ North Carolina State University
 
 ---
 
