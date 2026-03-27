@@ -1,9 +1,9 @@
-# XR Software Engineer
+# MedTech Innovation Engineer (XR/AI)
 _Contact: robert.drsj(at)gmail.com_<br>
 
 Hey there!<br>
 
-I'm a Software Engineer with 8+ years of experience building immersive XR apps, mobile apps, games, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, industrial, energy, and government.<br>
+I'm a Software Engineer with 9+ years of experience building immersive XR apps, mobile apps, games, and internal tooling in Unity/Unreal; and 2 years of backend experience using Google Firebase and AWS. Industry expertise includes healthcare, education, aerospace, industrial, energy, and government.<br>
 
 Looking forward to working with you!
 
@@ -14,7 +14,9 @@ Looking forward to working with you!
 #### **Hardware**: Windows, Mac, Android, iOS, Arduino, Raspberry Pi
 
 ## Work Experience
-**XR Software Engineer @ Immersive Hearing Technologies (_November 2024 - Present_)**<br>
+**Innovation Device & VR Support Specialist @ Children's Nebraska (_October 2025 - Present_)**<br>
+
+**XR Software Engineer @ Immersive Hearing Technologies (_November 2024 - March 2026_)**<br>
 AWS Authentication & App Licensing Solution (_Present, Meta Quest 3 & Android_)<!--(https://robertdrsj.github.io/docs/tools/2025_tools_awsbackend)--><br>
 Constructed the company's backend from scratch with AWS SDK for .NET and Unity in order to manage user app access and automate software license distribution.
 
